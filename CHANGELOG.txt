@@ -1,0 +1,2 @@
+2/27/07: Slight change to prevent calling bsBounceStudio_init() multiple times. Caused massive memory usage.
+2/6/07: Initial upload to RubyForge
