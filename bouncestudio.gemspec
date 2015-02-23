@@ -5,7 +5,7 @@ require 'bouncestudio/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "bouncestudio"
-  spec.version       = Bouncestudio::VERSION
+  spec.version       = Bouncestudio::VERSION::STRING
   spec.authors       = ["Waseem Ahmad"]
   spec.email         = ["talk.to.waseem@gmail.com"]
   spec.summary       = %q{TODO: Write a short summary. Required.}
