@@ -1,11 +1,11 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'bouncestudio/0.0.2/version'
+require 'bouncestudio/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "bouncestudio-0.0.2"
-  spec.version       = Bouncestudio::0.0.2::VERSION
+  spec.name          = "bouncestudio"
+  spec.version       = Bouncestudio::VERSION
   spec.authors       = ["Waseem Ahmad"]
   spec.email         = ["talk.to.waseem@gmail.com"]
   spec.summary       = %q{TODO: Write a short summary. Required.}
